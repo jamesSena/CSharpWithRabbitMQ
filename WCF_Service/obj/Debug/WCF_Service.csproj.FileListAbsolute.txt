@@ -1,0 +1,14 @@
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\WCF_Service.dll.config
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\WCF_Service.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\WCF_Service.pdb
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\obj\Debug\WCF_Service.csprojAssemblyReference.cache
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\obj\Debug\WCF_Service.csproj.CoreCompileInputs.cache
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\obj\Debug\WCF_Service.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\obj\Debug\WCF_Service.pdb
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\Newtonsoft.Json.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\RabbitMQ.Client.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\Newtonsoft.Json.xml
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\bin\RabbitMQ.Client.xml
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\WCF_Service\obj\Debug\WCF_Service.csproj.CopyComplete

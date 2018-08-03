@@ -1,0 +1,12 @@
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\JamessonMQ.exe.config
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\JamessonMQ.exe
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\JamessonMQ.pdb
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\RabbitMQ.Client.dll
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\bin\Debug\RabbitMQ.Client.xml
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\obj\Debug\JamessonMQ.csprojAssemblyReference.cache
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\obj\Debug\JamessonMQ.csproj.CoreCompileInputs.cache
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\obj\Debug\JamessonMQ.csproj.CopyComplete
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\obj\Debug\JamessonMQ.exe
+C:\Users\jsena\Projetos-Coddera\RABBITMQ\JamessonMQ\JamessonMQ\obj\Debug\JamessonMQ.pdb

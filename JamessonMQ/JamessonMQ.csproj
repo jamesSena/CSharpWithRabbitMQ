@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{53042F8E-DD40-4B84-88A1-E147ECEEE120}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CodderaMQ</RootNamespace>
-    <AssemblyName>CodderaMQ</AssemblyName>
+    <RootNamespace>JamessonMQ</RootNamespace>
+    <AssemblyName>JamessonMQ</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
