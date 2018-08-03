@@ -6,12 +6,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{B623F6AA-1B1B-4F5D-8165-38CCF17A02C4}</ProjectGuid>
+    <ProjectGuid>{B996DBE5-DA81-4A3C-8FC8-E3FF2425E4C7}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WCF_Service</RootNamespace>
-    <AssemblyName>WCF_Service</AssemblyName>
+    <RootNamespace>WCF_ServiceRest</RootNamespace>
+    <AssemblyName>WCF_ServiceRest</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -105,9 +105,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>63321</DevelopmentServerPort>
+          <DevelopmentServerPort>52599</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:63321/</IISUrl>
+          <IISUrl>http://localhost:52599/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

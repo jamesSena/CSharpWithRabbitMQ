@@ -13,8 +13,8 @@ namespace JamessonMQ
         private static void Main(string[] args)
         {
 
-             SendMessage();
-             //ReceivedMessage();
+             //SendMessage();
+             ReceivedMessage();
         }
 
 

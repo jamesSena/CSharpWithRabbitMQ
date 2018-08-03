@@ -15,9 +15,7 @@ namespace WCF_Service
         [OperationContract]
         MessageType SendMessage(MessageType message);
 
-        [OperationContract]
-        MessageType ReceivedMessage();
-
+     
     }
 
 
