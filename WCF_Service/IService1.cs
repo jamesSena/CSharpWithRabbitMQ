@@ -11,40 +11,26 @@ namespace WCF_Service
     [ServiceContract]
     public interface IService1
     {
-
         [OperationContract]
         MessageType SendMessage(MessageType message);
-
-     
     }
-
 
     [DataContract]
     public class MessageType
     {
-        string Cpf = string.Empty;
-        string Name = string.Empty;
-        string Message = string.Empty;
-
         [DataMember]
-        public string CpfValue
-        {
-            get { return Cpf; }
-            set { Cpf = value; }
-        }
-
+        string Cpf { get; set; }
         [DataMember]
-        public string NameValue
-        {
-            get { return Name; }
-            set { Name = value; }
-        }
-
+        string Name { get; set; }
         [DataMember]
-        public string MessageValue
+        string Message { get; set; }
+
+        public MessageType(string cpf, string name, string message)
         {
-            get { return Message; }
-            set { Message = value; }
+            Cpf = cpf;
+            Name = name;
+            Message = message;
         }
     }
 }
+

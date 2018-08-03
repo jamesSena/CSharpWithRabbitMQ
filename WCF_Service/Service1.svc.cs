@@ -26,8 +26,6 @@ namespace WCF_Service
                     properties.Persistent = true;
                     channel.BasicPublish(exchange: "", routingKey: queue, mandatory: true, basicProperties: properties, body: body);
                     Console.WriteLine(" [x] Sent {0}", message);
-
-
                 }
             }
 

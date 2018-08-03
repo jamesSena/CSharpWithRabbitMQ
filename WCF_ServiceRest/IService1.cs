@@ -23,11 +23,11 @@ namespace WCF_ServiceRest
     public class MessageType
     {
         [DataMember]
-        string Cpf = string.Empty;
+        string Cpf  {get; set; }
         [DataMember]
-        string Name = string.Empty;
+        string Name { get; set; }
         [DataMember]
-        string Message = string.Empty;
+        string Message { get; set; }
 
         public MessageType(string cpf, string name, string message) {
             Cpf = cpf;
